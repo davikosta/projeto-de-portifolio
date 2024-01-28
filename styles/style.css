@@ -24,7 +24,7 @@ body {
 .cabecalho {
     color: var(--cor-destaque);
     background-color: var(--cor-secundaria);
-    padding: 1.5%;
+    padding: 3%;
     text-align: center;
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
@@ -134,7 +134,7 @@ body {
 .rodape {
     color: #DDDDDD;
     background-color: var(--cor-secundaria);
-    padding: 24px;
+    padding: 3%;
     text-align: center;
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
